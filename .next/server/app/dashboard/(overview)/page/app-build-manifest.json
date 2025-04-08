@@ -1,6 +1,6 @@
 {
   "pages": {
-    "/dashboard/page": [
+    "/dashboard/(overview)/page": [
       "static/chunks/[root of the server]__6d405811._.css",
       "static/chunks/670a6_next_dist_c335f00d._.js",
       "static/chunks/app_layout_tsx_2e705528._.js",
